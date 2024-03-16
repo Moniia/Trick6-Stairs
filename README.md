@@ -11,7 +11,7 @@ https://github.com/Moniia/Trick6-Stairs/assets/155805252/29ca2a69-3832-4a31-b621
 <br></br>
 
 
-🔗 [Demo Project](https://moniia.github.io/Trick5-Menu-rotate/)
+🔗 [Demo Project](https://moniia.github.io/Trick6-Stairs/)
 
 👩🏻‍💻 Developed by Mona Aminian
 
